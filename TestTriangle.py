@@ -2,7 +2,6 @@
 """
 Updated Jan 21, 2018
 The primary goal of this file is to demonstrate a simple unittest implementation
-
 @author: jrr
 @author: rk
 """
@@ -38,4 +37,5 @@ class TestTriangles(unittest.TestCase):
 if __name__ == '__main__':
     print('Running unit tests')
     unittest.main()
+
 
